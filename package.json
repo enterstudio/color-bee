@@ -27,7 +27,7 @@
   "homepage": "https://github.com/IBM-Design/color-bee",
   "dependencies": {
     "ase-utils": "git+https://github.com/ind1go/node-ase-utils.git",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "gulp-clean": "^0.3.2",
     "gulp-json-editor": "^2.2.1",
     "gulp-rename": "^1.2.2",
