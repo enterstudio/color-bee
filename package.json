@@ -31,8 +31,8 @@
     "gulp-clean": "^0.3.2",
     "gulp-json-editor": "^2.2.1",
     "gulp-rename": "^1.2.2",
-    "gulp-shell": "^0.5.2",
-    "handlebars": "^4.0.5",
+    "gulp-shell": "^0.7.1",
+    "handlebars": "^4.1.1",
     "through2-map": "^2.0.0",
     "through2-spy": "^2.0.0"
   }
